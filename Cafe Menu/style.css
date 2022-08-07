@@ -48,12 +48,15 @@ article{
     margin: auto;
 }
 .item {
-    text-align: left;
-    width: 70%;
-    padding-left: 2rem;
-  }
+text-align: left;
+width: 70%;
+padding-left: 2rem;
+}
   
-  .price {
-    text-align: right;
-    width: 20%;
-  }
+.price {
+text-align: right;
+width: 20%;
+}
+article:last-of-type{
+    padding-bottom: 1.5rem;
+}
