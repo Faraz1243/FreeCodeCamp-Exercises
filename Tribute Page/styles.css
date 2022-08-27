@@ -34,11 +34,11 @@
     width: 100%;
     color: aliceblue;
     padding: 2rem 0;
+    border-top: 2px solid yellow;
 }
 .bottom a{
     background-color: black;
-    color: yellow;
-    
+    color: yellow;    
 }
 /* #img-div{
     width:100%;
